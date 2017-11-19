@@ -10,6 +10,6 @@
 * License: GPL2
 */
 
-echo "Hola desde la versión 1.0";
+echo "Hola desde la versión 2.0";
 
 ?>
